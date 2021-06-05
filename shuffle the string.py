@@ -1,6 +1,6 @@
 import random
 
-# str = input("Enter the sentence: ")
+str = input("Enter the sentence: ")
 str = str.replace(".", " .")
 lst = str.split()
 new_str = ""

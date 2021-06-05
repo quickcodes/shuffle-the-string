@@ -1,8 +1,5 @@
 import random
 
-str = '''To solve this quiz you need to convert a normal string into a randomized string. 
-But in that way, so our human brain can still read it. and if you can still read this message congratulations you have a
- strong mindset.'''
 # str = input("Enter the sentence: ")
 str = str.replace(".", " .")
 lst = str.split()
